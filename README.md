@@ -59,6 +59,7 @@ Understand the role of VPNs in protecting privacy and secure communication.
 
 - **Limitations:** While VPNs improve privacy, they are not a full anonymity tool — the VPN provider can still technically see your traffic unless they enforce strict no-log policies. For complete anonymity, tools like Tor may be needed in combination with a VPN.
 
+---
 ## Summary:
 
 VPNs provide an extra layer of privacy and security by encrypting internet traffic and masking real IP addresses. They are especially useful when using public Wi-Fi or bypassing geo-restrictions. However, free VPNs may come with limitations in speed, server availability, and potential trust issues with providers.  
